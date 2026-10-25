@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 415 156" width="415" height="156">
+  <title>SSH Brute-Force SIEM Pipeline</title>
+  <desc>Project card 03: SSH Brute-Force SIEM Pipeline</desc>
+  <rect x="4" y="4" width="407" height="148" rx="12" fill="#0f1115" stroke="#23262e" stroke-width="1"/>
+  <line x1="24" y1="4" x2="64" y2="4" stroke="#38bdf8" stroke-width="1"/>
+  <text x="24" y="34" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#38bdf8">03</text>
+  <text x="383" y="34" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#8b909a" text-anchor="end">view →</text>
+  <text x="24" y="58" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#f2f4f7">SSH Brute-Force SIEM Pipeline</text>
+  <text x="24" y="80" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#aab0ba">
+    <tspan x="24" dy="0">Lightweight SIEM automating failed auth parsing,</tspan>
+    <tspan x="24" dy="17">SQLite warehousing, and SQL threat hunting queries.</tspan>
+  </text>
+  <g>
+    <rect x="24" y="118" width="44" height="20" rx="4" fill="#12141a" stroke="#23262e" stroke-width="1"/>
+    <text x="46" y="132" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#aab0ba" text-anchor="middle">Bash</text>
+    <rect x="74" y="118" width="52" height="20" rx="4" fill="#12141a" stroke="#23262e" stroke-width="1"/>
+    <text x="100" y="132" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#aab0ba" text-anchor="middle">SQLite</text>
+    <rect x="132" y="118" width="44" height="20" rx="4" fill="#12141a" stroke="#23262e" stroke-width="1"/>
+    <text x="154" y="132" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#aab0ba" text-anchor="middle">SIEM</text>
+    <rect x="182" y="118" width="94" height="20" rx="4" fill="#12141a" stroke="#23262e" stroke-width="1"/>
+    <text x="229" y="132" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#aab0ba" text-anchor="middle">Threat-Hunting</text>
+    <rect x="282" y="118" width="46" height="20" rx="4" fill="#12141a" stroke="#23262e" stroke-width="1"/>
+    <text x="305" y="132" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#aab0ba" text-anchor="middle">Linux</text>
+  </g>
+</svg>

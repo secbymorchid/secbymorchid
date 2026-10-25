@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 172 44" width="172" height="44">
+  <title>LinkedIn ↗</title>
+  <desc>Action button: LinkedIn ↗</desc>
+  <rect x="4" y="4" width="164" height="36" rx="8" fill="#12141a" stroke="#2a2e38" stroke-width="1"/>
+  <clipPath id="btnClipLinkedIn">
+    <rect x="4" y="4" width="164" height="36" rx="8"/>
+  </clipPath>
+  <rect x="4" y="4" width="3" height="36" fill="#0a66c2" clip-path="url(#btnClipLinkedIn)"/>
+  <text x="86" y="26" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#aab0ba" text-anchor="middle">LinkedIn ↗</text>
+</svg>
