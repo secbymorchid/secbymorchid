@@ -45,7 +45,7 @@
     &nbsp;&nbsp;
     <a href="mailto:moad.morchid.cybersec@gmail.com"><img src="assets/btn-email.svg" width="180" alt="Email &#8599;"></a>
     &nbsp;&nbsp;
-    <img src="assets/btn-portfolio.svg" width="180" alt="Portfolio">
+    <a href="https://portfolio-beige-five-autudi03ut.vercel.app/" target="_blank"><img src="assets/btn-portfolio.svg" width="180" alt="Portfolio &#8599;"></a>
   </p>
 
   <!-- Availability Status Bar -->
