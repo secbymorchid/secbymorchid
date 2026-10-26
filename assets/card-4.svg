@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 590 180" width="590" height="180">
+  <defs>
+    <linearGradient id="cardGrad4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#141B28"/>
+      <stop offset="100%" stop-color="#0B0F17"/>
+    </linearGradient>
+  </defs>
+  <!-- Card base panel -->
+  <rect x="2" y="2" width="586" height="176" rx="10" fill="url(#cardGrad4)" stroke="#1E293B" stroke-width="1.2"/>
+  <!-- Top accent edge -->
+  <line x1="24" y1="2" x2="80" y2="2" stroke="#A855F7" stroke-width="2"/>
+
+  <!-- Header row -->
+  <text x="24" y="30" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="700" fill="#A855F7">04</text>
+  <text x="566" y="30" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" fill="#64748B" text-anchor="end">view repository ↗</text>
+
+  <!-- Title -->
+  <text x="24" y="56" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="700" fill="#F8FAFC">Multi-Threaded Network Port &amp; Service Auditor</text>
+
+  <!-- Governance badge -->
+  <text x="24" y="76" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="600" fill="#A855F7">GOVERNANCE: ISO 27001 A.8.8 / A.8.9 · ATTACK SURFACE DISCOVERY</text>
+
+  <!-- Description -->
+  <text x="24" y="98" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#94A3B8">
+    <tspan x="24" dy="0">High-concurrency Python scanner utilizing socket, threading, and queue</tspan>
+    <tspan x="24" dy="18">primitives with banner grabbing for automated service asset discovery.</tspan>
+  </text>
+
+  <!-- Tech chips -->
+  <g transform="translate(24, 140)">
+    <rect x="0" y="0" width="68" height="22" rx="4" fill="#161F30" stroke="#1E293B" stroke-width="1"/>
+    <text x="34" y="15" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" fill="#E2E8F0" text-anchor="middle">Python 3</text>
+
+    <rect x="76" y="0" width="62" height="22" rx="4" fill="#161F30" stroke="#1E293B" stroke-width="1"/>
+    <text x="107" y="15" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" fill="#E2E8F0" text-anchor="middle">Sockets</text>
+
+    <rect x="146" y="0" width="76" height="22" rx="4" fill="#161F30" stroke="#1E293B" stroke-width="1"/>
+    <text x="184" y="15" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" fill="#E2E8F0" text-anchor="middle">Threading</text>
+
+    <rect x="230" y="0" width="56" height="22" rx="4" fill="#161F30" stroke="#1E293B" stroke-width="1"/>
+    <text x="258" y="15" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" fill="#E2E8F0" text-anchor="middle">Recon</text>
+
+    <rect x="294" y="0" width="102" height="22" rx="4" fill="#161F30" stroke="#1E293B" stroke-width="1"/>
+    <text x="345" y="15" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" fill="#A855F7" text-anchor="middle">Asset Audit</text>
+  </g>
+</svg>

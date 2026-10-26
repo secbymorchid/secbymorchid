@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 44" width="180" height="44">
+  <rect x="2" y="2" width="176" height="40" rx="8" fill="#141B28" stroke="#1E293B" stroke-width="1.2"/>
+  <rect x="2" y="2" width="4" height="40" rx="2" fill="#0A66C2"/>
+  <text x="90" y="26" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="600" fill="#94A3B8" text-anchor="middle">LinkedIn ↗</text>
+</svg>

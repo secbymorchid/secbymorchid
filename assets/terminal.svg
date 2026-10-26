@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 270" width="1200" height="270">
+  <defs>
+    <clipPath id="termPanelClip">
+      <rect x="2" y="2" width="1196" height="266" rx="12"/>
+    </clipPath>
+    <!-- Typing clip paths -->
+    <clipPath id="clipL1">
+      <rect x="36" y="58" width="1120" height="24">
+        <animate attributeName="width" from="0" to="1120" dur="0.8s" begin="0.4s" fill="freeze" calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clipL3">
+      <rect x="36" y="110" width="1120" height="24">
+        <animate attributeName="width" from="0" to="1120" dur="1.0s" begin="1.8s" fill="freeze" calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clipL5">
+      <rect x="36" y="162" width="1120" height="24">
+        <animate attributeName="width" from="0" to="1120" dur="1.0s" begin="3.4s" fill="freeze" calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clipL7">
+      <rect x="36" y="214" width="1120" height="24">
+        <animate attributeName="width" from="0" to="1120" dur="1.0s" begin="5.0s" fill="freeze" calcMode="linear"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <style>
+    @media (prefers-reduced-motion: reduce) {
+      .cmd-clip { width: 1120px !important; }
+      .fade-item { opacity: 1 !important; }
+      .term-cursor { display: none !important; }
+    }
+  </style>
+
+  <!-- Panel Base -->
+  <rect x="1" y="1" width="1198" height="268" rx="12" fill="#0B0F17" stroke="#1E293B" stroke-width="1.5"/>
+
+  <!-- Titlebar -->
+  <g clip-path="url(#termPanelClip)">
+    <rect x="1" y="1" width="1198" height="38" fill="#121824"/>
+    <line x1="1" y1="39" x2="1199" y2="39" stroke="#1E293B" stroke-width="1"/>
+    <!-- Controls -->
+    <circle cx="28" cy="20" r="5" fill="#EF4444" opacity="0.8"/>
+    <circle cx="46" cy="20" r="5" fill="#F59E0B" opacity="0.8"/>
+    <circle cx="64" cy="20" r="5" fill="#10B981" opacity="0.8"/>
+    <text x="600" y="24" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" fill="#64748B" text-anchor="middle">morchid@ensao:~ (bash session · telemetry active)</text>
+  </g>
+
+  <!-- Line 1: whoami -->
+  <g clip-path="url(#clipL1)">
+    <text x="36" y="74" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#38BDF8">morchid@ensao</tspan><tspan fill="#64748B">:~$ </tspan><tspan fill="#F8FAFC">whoami</tspan></text>
+  </g>
+  <!-- Line 2: Output -->
+  <text x="36" y="96" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" fill="#94A3B8" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="1.3s" fill="freeze"/>
+    <tspan fill="#38BDF8">&gt;</tspan> Moad Morchid — MGSI Engineering Student @ ENSA Oujda (&apos;27)
+  </text>
+
+  <!-- Line 3: cat focus.txt -->
+  <g clip-path="url(#clipL3)">
+    <text x="36" y="126" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#38BDF8">morchid@ensao</tspan><tspan fill="#64748B">:~$ </tspan><tspan fill="#F8FAFC">cat focus.txt</tspan></text>
+  </g>
+  <!-- Line 4: Output -->
+  <text x="36" y="148" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" fill="#94A3B8" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="2.9s" fill="freeze"/>
+    <tspan fill="#38BDF8">&gt;</tspan> IT &amp; Cyber Project Management · Information Systems Security · Risk &amp; Governance (ISO 27001, RGPD)
+  </text>
+
+  <!-- Line 5: cat honors.txt -->
+  <g clip-path="url(#clipL5)">
+    <text x="36" y="178" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#38BDF8">morchid@ensao</tspan><tspan fill="#64748B">:~$ </tspan><tspan fill="#F8FAFC">cat honors.txt</tspan></text>
+  </g>
+  <!-- Line 6: Output -->
+  <text x="36" y="200" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" fill="#F59E0B" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="4.5s" fill="freeze"/>
+    <tspan fill="#F59E0B">&gt; 🏆 1st Place Champion — Red Phoenix CTF 2026 (6,750 pts / 30 challenges solved)</tspan>
+  </text>
+
+  <!-- Line 7: ls -la projects/ -->
+  <g clip-path="url(#clipL7)">
+    <text x="36" y="230" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#38BDF8">morchid@ensao</tspan><tspan fill="#64748B">:~$ </tspan><tspan fill="#F8FAFC">ls -1 projects/</tspan></text>
+  </g>
+  <!-- Line 8: Output -->
+  <text x="36" y="252" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" fill="#E2E8F0" opacity="0" xml:space="preserve">
+    <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="6.1s" fill="freeze"/>
+    <tspan fill="#38BDF8">[01]</tspan> ssh-bruteforce-siem/  <tspan fill="#10B981">[02]</tspan> ssh-honeypot/  <tspan fill="#F59E0B">[03]</tspan> rpctf2026-writeups/  <tspan fill="#A855F7">[04]</tspan> net-auditor/  <tspan fill="#64748B">[05]</tspan> securebank-lab[WIP]/
+  </text>
+
+  <!-- Blinking Cursor -->
+  <rect class="term-cursor" x="870" y="238" width="8" height="16" fill="#38BDF8" opacity="0">
+    <set attributeName="opacity" to="1" begin="6.6s"/>
+    <animate attributeName="opacity" values="1;0;1" dur="1s" begin="6.6s" repeatCount="indefinite"/>
+  </rect>
+</svg>
