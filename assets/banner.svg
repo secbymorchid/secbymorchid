@@ -121,7 +121,7 @@
     <text x="0" y="140" font-family="Georgia, Cambria, 'Times New Roman', serif" font-size="15" font-weight="600" fill="#D4AF37" letter-spacing="1.5px">MGSI @ ENSAO  &#183;  IT &amp; CYBER PROJECT MANAGEMENT  &#183;  RISK &amp; GOVERNANCE</text>
 
     <!-- Secondary Focus Descriptor -->
-    <text x="0" y="168" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="500" fill="#A89687" letter-spacing="1px">SOVEREIGN RISK &amp; GRC  &#183;  IS URBANIZATION (MERISE / UML)  &#183;  DECEPTION &amp; SOC TELEMETRY</text>
+    <text x="0" y="168" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="500" fill="#A89687" letter-spacing="1px">GOVERNANCE (ISO 27001 / EBIOS)  &#183;  IS URBANIZATION (UML / MERISE)  &#183;  SOC &amp; LOG TELEMETRY</text>
 
     <!-- Gold Medallion Pill (CTF 1st Place) -->
     <g transform="translate(0, 196)">
@@ -379,7 +379,7 @@
       <line x1="108" y1="8" x2="108" y2="18" stroke="#33FF77" stroke-opacity="0.5" stroke-width="1" stroke-dasharray="2,2"/>
       <rect x="16" y="-12" width="184" height="20" rx="3" fill="#0D1F11" stroke="#22C55E" stroke-width="1.1"/>
       <circle cx="27" cy="-2" r="2.8" fill="#33FF77"><animate attributeName="opacity" values="1;0.35;1" dur="1.8s" repeatCount="indefinite"/></circle>
-      <text x="110" y="2" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9" font-weight="700" fill="#86EFAC" text-anchor="middle">IBM 5100 &#183; SOVEREIGN SecOps</text>
+      <text x="110" y="2" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9" font-weight="700" fill="#86EFAC" text-anchor="middle">IBM 5100 &#183; SECOPS TELEMETRY</text>
     </g>
 
     <!-- Pill 2: Above British Racing Green Briefcase -->
@@ -388,7 +388,7 @@
       <line x1="316" y1="8" x2="316" y2="20" stroke="#D4AF37" stroke-opacity="0.6" stroke-width="1" stroke-dasharray="2,2"/>
       <rect x="242" y="-12" width="148" height="20" rx="3" fill="#13261A" stroke="#D4AF37" stroke-width="1.1"/>
       <circle cx="253" cy="-2" r="2.8" fill="#D4AF37"/>
-      <text x="318" y="2" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9" font-weight="700" fill="#F5E5B8" text-anchor="middle">DIPLOMATIC ATTACH&#201;</text>
+      <text x="318" y="2" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9" font-weight="700" fill="#F5E5B8" text-anchor="middle">MGSI &#183; GRC DOSSIER</text>
     </g>
   </g>
 </svg>

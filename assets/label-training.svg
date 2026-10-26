@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 36" width="1200" height="36">
   <g transform="translate(10, 24)">
     <polygon points="0,-4 5,0 0,4 -5,0" fill="#D4AF37"/>
-    <text x="14" y="0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="700" fill="#D4AF37" letter-spacing="2">// III. PROFESSIONAL CREDENTIALS &amp; FOUNDATIONAL DISCIPLINE</text>
+    <text x="14" y="0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="700" fill="#D4AF37" letter-spacing="2">// 03. CERTIFICATIONS &amp; LABS</text>
   </g>
-  <line x1="520" y1="20" x2="1190" y2="20" stroke="#3A2619" stroke-width="1.2"/>
-  <line x1="520" y1="20" x2="605" y2="20" stroke="#D4AF37" stroke-width="1.5" stroke-opacity="0.8"/>
+  <line x1="315" y1="20" x2="1190" y2="20" stroke="#3A2619" stroke-width="1.2"/>
+  <line x1="315" y1="20" x2="400" y2="20" stroke="#D4AF37" stroke-width="1.5" stroke-opacity="0.8"/>
 </svg>

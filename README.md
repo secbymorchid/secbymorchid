@@ -2,13 +2,13 @@
   <!-- Executive Savile Row Banner -->
   <a href="https://github.com/secbymorchid"><img src="assets/banner.svg" width="100%" alt="Moad Morchid &#8212; The Gentleman Strategist // SECBYMORCHID"></a>
 
-  <!-- Executive Confidential Briefing Dossier -->
-  <img src="assets/dossier.svg" width="100%" alt="Executive Cybersecurity and Governance Briefing Memorandum">
+  <!-- Executive Profile Summary -->
+  <img src="assets/dossier.svg" width="100%" alt="Executive Profile &amp; Focus Summary">
 
   <br><br>
 
-  <!-- Section I: Executive Controls & Strategic Artifacts -->
-  <img src="assets/label-projects.svg" width="100%" alt="I. Executive Controls &amp; Strategic Artifacts">
+  <!-- Section 01: Featured Projects & Technical Controls -->
+  <img src="assets/label-projects.svg" width="100%" alt="01. Featured Projects &amp; Technical Controls">
   <p align="center">
     <a href="https://github.com/secbymorchid/Automated-SSH-Brute-Force-Detection-Intelligence-Pipeline"><img src="assets/card-1.svg" width="49.5%" alt="I. Automated SSH Brute-Force SIEM Pipeline"></a>
     <a href="https://github.com/secbymorchid/ssh-honeypot-project"><img src="assets/card-2.svg" width="49.5%" alt="II. Enterprise SSH Honeypot &amp; Deception Stack"></a>
@@ -20,36 +20,36 @@
 
   <br>
 
-  <!-- Section II: The Three-Pillar Governance Doctrine -->
-  <img src="assets/label-matrix.svg" width="100%" alt="II. The Three-Pillar Governance Doctrine">
-  <img src="assets/matrix.svg" width="100%" alt="Doctrine I: Sovereign Risk &amp; GRC | Doctrine II: Systems Urbanization | Doctrine III: Tactical SecOps">
+  <!-- Section 02: Core Competencies & Domains -->
+  <img src="assets/label-matrix.svg" width="100%" alt="02. Core Competencies &amp; Domains">
+  <img src="assets/matrix.svg" width="100%" alt="Pillar 01: Risk &amp; Governance | Pillar 02: IT &amp; Cyber Project Management | Pillar 03: SecOps &amp; Technical Controls">
 
   <br><br>
 
-  <!-- Section III: Professional Credentials & Foundational Discipline -->
-  <img src="assets/label-training.svg" width="100%" alt="III. Professional Credentials &amp; Foundational Discipline">
-  <img src="assets/training.svg" width="100%" alt="Credentials: Google Cybersecurity, Cisco Networking, TryHackMe, Linux Labs">
+  <!-- Section 03: Certifications & Labs -->
+  <img src="assets/label-training.svg" width="100%" alt="03. Certifications &amp; Labs">
+  <img src="assets/training.svg" width="100%" alt="Certifications: Google Cybersecurity, Cisco Networking, TryHackMe, Linux Labs">
 
   <br><br>
 
-  <!-- Section IV: The Gentleman's Arsenal & Executive Toolkit -->
-  <img src="assets/label-stack.svg" width="100%" alt="IV. The Gentleman's Arsenal &amp; Executive Toolkit">
-  <img src="assets/stack.svg" width="100%" alt="Sovereign Governance, Tactical SecOps, and Systems Automation Toolkit">
+  <!-- Section 04: Technical & Governance Arsenal -->
+  <img src="assets/label-stack.svg" width="100%" alt="04. Technical &amp; Governance Arsenal">
+  <img src="assets/stack.svg" width="100%" alt="Governance, SecOps, and Systems Automation Arsenal">
 
   <br><br>
 
-  <!-- Section V: Discreet Inquiries & Correspondence -->
-  <img src="assets/label-contact.svg" width="100%" alt="V. Discreet Inquiries &amp; Correspondence">
+  <!-- Section 05: Contact & Connect -->
+  <img src="assets/label-contact.svg" width="100%" alt="05. Contact &amp; Connect">
   <p align="center">
     <a href="https://www.linkedin.com/in/moad-morchid-8575b43a0/" target="_blank"><img src="assets/btn-linkedin.svg" width="180" alt="LinkedIn &#8599;"></a>
     &nbsp;&nbsp;
-    <a href="mailto:moad.morchid.cybersec@gmail.com"><img src="assets/btn-email.svg" width="180" alt="Discreet Email &#8599;"></a>
+    <a href="mailto:moad.morchid.cybersec@gmail.com"><img src="assets/btn-email.svg" width="180" alt="Email &#8599;"></a>
     &nbsp;&nbsp;
     <img src="assets/btn-portfolio.svg" width="180" alt="Portfolio">
   </p>
 
-  <!-- Operational Readiness Status Bar -->
-  <img src="assets/status.svg" width="100%" alt="Operational Readiness: Open to Strategic Advisory &amp; Cyber Project Management">
+  <!-- Availability Status Bar -->
+  <img src="assets/status.svg" width="100%" alt="Availability: Open to IT &amp; Cyber Project Management / GRC Roles">
 
   <br><br>
 
