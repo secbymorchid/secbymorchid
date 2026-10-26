@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Executive Savile Row Banner -->
-  <a href="https://github.com/secbymorchid"><img src="assets/banner.svg" width="100%" alt="Moad Morchid ? The Gentleman Strategist // SECBYMORCHID"></a>
+  <a href="https://github.com/secbymorchid"><img src="assets/banner.svg" width="100%" alt="Moad Morchid &#8212; The Gentleman Strategist // SECBYMORCHID"></a>
 
   <!-- Executive Confidential Briefing Dossier -->
   <img src="assets/dossier.svg" width="100%" alt="Executive Cybersecurity and Governance Briefing Memorandum">
@@ -56,6 +56,6 @@
   <!-- Aristocratic Sign-off Quote -->
   <p align="center">
     <sub><code>"SECURITY IS NOT MERELY SYNTAX; IT IS DISCRETION, ARCHITECTURE, AND THE ART OF GOVERNANCE."</code></sub><br>
-    <sub><small><font color="#877668">// SECBYMORCHID ? EXECUTIVE CYBERSECURITY &amp; INFORMATION SYSTEMS STRATEGY</font></small></sub>
+    <sub><small><font color="#877668">// SECBYMORCHID &#8212; EXECUTIVE CYBERSECURITY &amp; INFORMATION SYSTEMS STRATEGY</font></small></sub>
   </p>
 </div>
