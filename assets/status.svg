@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 44" width="1200" height="44">
-  <rect x="2" y="2" width="1196" height="40" rx="8" fill="#0D121D" stroke="#1E293B" stroke-width="1.2"/>
-  <!-- Pulsing Radar Dot -->
-  <circle cx="28" cy="22" r="4.5" fill="#10B981"/>
-  <circle cx="28" cy="22" r="4.5" fill="none" stroke="#10B981" stroke-width="1.5">
-    <animate attributeName="r" values="4.5;11" dur="2s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.6;0" dur="2s" repeatCount="indefinite"/>
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 44" width="1200" height="44">
+  <rect x="2" y="2" width="1196" height="40" rx="4" fill="#140E0A" stroke="#3A2619" stroke-width="1.3"/>
+  <!-- Warm Cigar Ember Pulse -->
+  <circle cx="28" cy="22" r="4.5" fill="#D4AF37"/>
+  <circle cx="28" cy="22" r="4.5" fill="none" stroke="#D4AF37" stroke-width="1.5">
+    <animate attributeName="r" values="4.5;11" dur="2.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;0" dur="2.4s" repeatCount="indefinite"/>
   </circle>
-  <text x="50" y="26" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" fill="#94A3B8">operational status: <tspan fill="#F8FAFC">open to internships &amp; cyber project management opportunities</tspan> · MGSI @ ENSA Oujda</text>
-  <text x="1170" y="26" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#64748B" text-anchor="end">status: active</text>
+  <text x="50" y="26" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" fill="#A89687">OPERATIONAL READINESS: <tspan fill="#F7EFE6" font-weight="600">OPEN TO STRATEGIC ADVISORY &amp; CYBER PROJECT MANAGEMENT</tspan> Â· MGSI @ ENSA OUJDA</text>
+  <text x="1170" y="26" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#D4AF37" text-anchor="end">STATUS: DEPLOYED</text>
 </svg>

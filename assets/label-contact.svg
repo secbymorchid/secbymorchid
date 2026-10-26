@@ -1,4 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 36" width="1200" height="36">
-  <text x="10" y="24" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" font-weight="700" fill="#38BDF8" letter-spacing="2">// CONNECT_AND_COLLABORATE</text>
-  <line x1="300" y1="20" x2="1190" y2="20" stroke="#1E293B" stroke-width="1.2"/>
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 36" width="1200" height="36">
+  <g transform="translate(10, 24)">
+    <polygon points="0,-4 5,0 0,4 -5,0" fill="#D4AF37"/>
+    <text x="14" y="0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="700" fill="#D4AF37" letter-spacing="2">// V. DISCREET INQUIRIES &amp; CORRESPONDENCE</text>
+  </g>
+  <line x1="390" y1="20" x2="1190" y2="20" stroke="#3A2619" stroke-width="1.2"/>
+  <line x1="390" y1="20" x2="475" y2="20" stroke="#D4AF37" stroke-width="1.5" stroke-opacity="0.8"/>
 </svg>

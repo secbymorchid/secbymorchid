@@ -1,46 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 590 180" width="590" height="180">
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 590 180" width="590" height="180">
   <defs>
-    <linearGradient id="cardGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#141B28"/>
-      <stop offset="100%" stop-color="#0B0F17"/>
+    <linearGradient id="cardLeather1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1A120C"/>
+      <stop offset="100%" stop-color="#0E0906"/>
     </linearGradient>
   </defs>
-  <!-- Card base panel -->
-  <rect x="2" y="2" width="586" height="176" rx="10" fill="url(#cardGrad1)" stroke="#1E293B" stroke-width="1.2"/>
-  <!-- Top accent edge -->
-  <line x1="24" y1="2" x2="80" y2="2" stroke="#38BDF8" stroke-width="2"/>
 
-  <!-- Header row -->
-  <text x="24" y="30" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="700" fill="#38BDF8">01</text>
-  <text x="566" y="30" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" fill="#64748B" text-anchor="end">view repository ↗</text>
+  <!-- Panel Base -->
+  <rect x="2" y="2" width="586" height="176" rx="8" fill="url(#cardLeather1)" stroke="#3A2619" stroke-width="1.4"/>
+  <rect x="6" y="6" width="578" height="168" rx="6" fill="none" stroke="#24170F" stroke-width="0.8"/>
+
+  <!-- Top Accent Bar: Gold -->
+  <line x1="24" y1="2" x2="84" y2="2" stroke="#D4AF37" stroke-width="2.5"/>
+
+  <!-- Header Row: Roman Numeral I -->
+  <text x="24" y="30" font-family="Georgia, Cambria, serif" font-size="13" font-weight="700" fill="#D4AF37">I.</text>
+  <text x="566" y="30" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#877668" text-anchor="end">inspect artifact â†—</text>
 
   <!-- Title -->
-  <text x="24" y="56" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="700" fill="#F8FAFC">Automated SSH Brute-Force SIEM Pipeline</text>
+  <text x="24" y="56" font-family="Georgia, Cambria, serif" font-size="16" font-weight="700" fill="#F7EFE6">Automated SSH Brute-Force SIEM Pipeline</text>
 
-  <!-- Governance badge -->
-  <text x="24" y="76" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="600" fill="#38BDF8">GOVERNANCE: ISO 27001 A.8.16 · CONTINUOUS ACCESS TELEMETRY</text>
+  <!-- Subtitle / Governance Objective -->
+  <text x="24" y="76" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="700" fill="#D4AF37">GOVERNANCE: ISO 27001 A.8.16 Â· CONTINUOUS ACCESS TELEMETRY</text>
 
   <!-- Description -->
-  <text x="24" y="98" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#94A3B8">
+  <text x="24" y="98" font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" font-size="12" fill="#A89687">
     <tspan x="24" dy="0">High-throughput Bash and awk parser extracting authentication anomalies,</tspan>
     <tspan x="24" dy="18">warehousing structured threat logs in SQLite for automated compliance audits.</tspan>
   </text>
 
-  <!-- Tech chips -->
+  <!-- Tech Chips -->
   <g transform="translate(24, 140)">
-    <rect x="0" y="0" width="50" height="22" rx="4" fill="#161F30" stroke="#1E293B" stroke-width="1"/>
-    <text x="25" y="15" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" fill="#E2E8F0" text-anchor="middle">Bash</text>
+    <rect x="0" y="0" width="52" height="22" rx="3" fill="#150E09" stroke="#3A2619" stroke-width="1"/>
+    <text x="26" y="15" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#F7EFE6" text-anchor="middle">Bash</text>
 
-    <rect x="58" y="0" width="46" height="22" rx="4" fill="#161F30" stroke="#1E293B" stroke-width="1"/>
-    <text x="81" y="15" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" fill="#E2E8F0" text-anchor="middle">awk</text>
+    <rect x="60" y="0" width="48" height="22" rx="3" fill="#150E09" stroke="#3A2619" stroke-width="1"/>
+    <text x="84" y="15" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#F7EFE6" text-anchor="middle">awk</text>
 
-    <rect x="112" y="0" width="60" height="22" rx="4" fill="#161F30" stroke="#1E293B" stroke-width="1"/>
-    <text x="142" y="15" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" fill="#E2E8F0" text-anchor="middle">SQLite</text>
+    <rect x="116" y="0" width="62" height="22" rx="3" fill="#150E09" stroke="#3A2619" stroke-width="1"/>
+    <text x="147" y="15" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#F7EFE6" text-anchor="middle">SQLite</text>
 
-    <rect x="180" y="0" width="48" height="22" rx="4" fill="#161F30" stroke="#1E293B" stroke-width="1"/>
-    <text x="204" y="15" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" fill="#E2E8F0" text-anchor="middle">SIEM</text>
+    <rect x="186" y="0" width="52" height="22" rx="3" fill="#150E09" stroke="#3A2619" stroke-width="1"/>
+    <text x="212" y="15" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#F7EFE6" text-anchor="middle">SIEM</text>
 
-    <rect x="236" y="0" width="102" height="22" rx="4" fill="#161F30" stroke="#1E293B" stroke-width="1"/>
-    <text x="287" y="15" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" fill="#38BDF8" text-anchor="middle">Log Telemetry</text>
+    <rect x="246" y="0" width="98" height="22" rx="3" fill="#150E09" stroke="#997A2E" stroke-width="1"/>
+    <text x="295" y="15" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" font-weight="600" fill="#E6CA65" text-anchor="middle">Audit Trails</text>
   </g>
 </svg>

@@ -1,19 +1,21 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 270" width="1200" height="270">
   <defs>
-    <linearGradient id="pCardGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#141B28"/>
-      <stop offset="100%" stop-color="#0B0F17"/>
+    <linearGradient id="pCardLeather" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1A120C"/>
+      <stop offset="100%" stop-color="#0E0906"/>
     </linearGradient>
   </defs>
 
   <!-- Pillar 1: GRC -->
   <g transform="translate(15, 5)">
-    <rect x="0" y="0" width="375" height="260" rx="10" fill="url(#pCardGrad)" stroke="#1E293B" stroke-width="1.2"/>
-    <line x1="20" y1="0" x2="80" y2="0" stroke="#38BDF8" stroke-width="2.5"/>
-    <text x="20" y="32" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="700" fill="#38BDF8">PILLAR 01</text>
-    <text x="20" y="55" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="700" fill="#F8FAFC">ðŸ›¡ï¸ Risk, Governance &amp; Compliance</text>
-    
-    <g transform="translate(20, 80)" font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" font-size="12" fill="#94A3B8">
+    <rect x="0" y="0" width="375" height="260" rx="8" fill="url(#pCardLeather)" stroke="#3A2619" stroke-width="1.3"/>
+    <rect x="4" y="4" width="367" height="252" rx="6" fill="none" stroke="#24170F" stroke-width="0.8"/>
+    <line x1="20" y1="0" x2="80" y2="0" stroke="#D4AF37" stroke-width="2.5"/>
+
+    <text x="20" y="32" font-family="Georgia, Cambria, serif" font-size="11.5" font-weight="700" fill="#D4AF37">DOCTRINE I</text>
+    <text x="20" y="55" font-family="Georgia, Cambria, serif" font-size="15" font-weight="700" fill="#F7EFE6">Sovereign Risk &amp; Governance</text>
+
+    <g transform="translate(20, 80)" font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" font-size="12" fill="#A89687">
       <text x="0" y="0">â€¢ Information Systems Governance &amp; Strategy</text>
       <text x="0" y="24">â€¢ Cyber Risk Assessment (EBIOS RM / ISO 27005)</text>
       <text x="0" y="48">â€¢ ISO/IEC 27001 &amp; NIST CSF Frameworks</text>
@@ -22,25 +24,27 @@
     </g>
 
     <g transform="translate(20, 215)">
-      <rect x="0" y="0" width="76" height="22" rx="4" fill="#161F30" stroke="#1E293B" stroke-width="1"/>
-      <text x="38" y="15" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#38BDF8" text-anchor="middle">ISO 27001</text>
-      <rect x="84" y="0" width="74" height="22" rx="4" fill="#161F30" stroke="#1E293B" stroke-width="1"/>
-      <text x="121" y="15" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#38BDF8" text-anchor="middle">EBIOS RM</text>
-      <rect x="166" y="0" width="56" height="22" rx="4" fill="#161F30" stroke="#1E293B" stroke-width="1"/>
-      <text x="194" y="15" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#38BDF8" text-anchor="middle">RGPD</text>
-      <rect x="230" y="0" width="48" height="22" rx="4" fill="#161F30" stroke="#1E293B" stroke-width="1"/>
-      <text x="254" y="15" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#38BDF8" text-anchor="middle">GRC</text>
+      <rect x="0" y="0" width="76" height="22" rx="3" fill="#150E09" stroke="#3A2619" stroke-width="1"/>
+      <text x="38" y="15" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#D4AF37" text-anchor="middle">ISO 27001</text>
+      <rect x="84" y="0" width="74" height="22" rx="3" fill="#150E09" stroke="#3A2619" stroke-width="1"/>
+      <text x="121" y="15" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#D4AF37" text-anchor="middle">EBIOS RM</text>
+      <rect x="166" y="0" width="56" height="22" rx="3" fill="#150E09" stroke="#3A2619" stroke-width="1"/>
+      <text x="194" y="15" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#D4AF37" text-anchor="middle">RGPD</text>
+      <rect x="230" y="0" width="48" height="22" rx="3" fill="#150E09" stroke="#3A2619" stroke-width="1"/>
+      <text x="254" y="15" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#D4AF37" text-anchor="middle">GRC</text>
     </g>
   </g>
 
   <!-- Pillar 2: MGSI and Project Management -->
   <g transform="translate(412, 5)">
-    <rect x="0" y="0" width="375" height="260" rx="10" fill="url(#pCardGrad)" stroke="#1E293B" stroke-width="1.2"/>
-    <line x1="20" y1="0" x2="80" y2="0" stroke="#F59E0B" stroke-width="2.5"/>
-    <text x="20" y="32" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="700" fill="#F59E0B">PILLAR 02</text>
-    <text x="20" y="55" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="700" fill="#F8FAFC">ðŸ“ IT &amp; Cyber Project Management</text>
+    <rect x="0" y="0" width="375" height="260" rx="8" fill="url(#pCardLeather)" stroke="#3A2619" stroke-width="1.3"/>
+    <rect x="4" y="4" width="367" height="252" rx="6" fill="none" stroke="#24170F" stroke-width="0.8"/>
+    <line x1="20" y1="0" x2="80" y2="0" stroke="#C5A059" stroke-width="2.5"/>
 
-    <g transform="translate(20, 80)" font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" font-size="12" fill="#94A3B8">
+    <text x="20" y="32" font-family="Georgia, Cambria, serif" font-size="11.5" font-weight="700" fill="#C5A059">DOCTRINE II</text>
+    <text x="20" y="55" font-family="Georgia, Cambria, serif" font-size="15" font-weight="700" fill="#F7EFE6">Systems Urbanization &amp; Delivery</text>
+
+    <g transform="translate(20, 80)" font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" font-size="12" fill="#A89687">
       <text x="0" y="0">â€¢ IS Urbanization &amp; Enterprise Architecture</text>
       <text x="0" y="24">â€¢ Conceptual &amp; Logical Modeling (Merise, UML)</text>
       <text x="0" y="48">â€¢ CASE Tooling: SAP PowerDesigner &amp; StarUML</text>
@@ -49,25 +53,27 @@
     </g>
 
     <g transform="translate(20, 215)">
-      <rect x="0" y="0" width="80" height="22" rx="4" fill="#161F30" stroke="#1E293B" stroke-width="1"/>
-      <text x="40" y="15" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#F59E0B" text-anchor="middle">Agile/Scrum</text>
-      <rect x="88" y="0" width="58" height="22" rx="4" fill="#161F30" stroke="#1E293B" stroke-width="1"/>
-      <text x="117" y="15" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#F59E0B" text-anchor="middle">Merise</text>
-      <rect x="154" y="0" width="48" height="22" rx="4" fill="#161F30" stroke="#1E293B" stroke-width="1"/>
-      <text x="178" y="15" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#F59E0B" text-anchor="middle">UML</text>
-      <rect x="210" y="0" width="102" height="22" rx="4" fill="#161F30" stroke="#1E293B" stroke-width="1"/>
-      <text x="261" y="15" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#F59E0B" text-anchor="middle">PowerDesigner</text>
+      <rect x="0" y="0" width="80" height="22" rx="3" fill="#150E09" stroke="#3A2619" stroke-width="1"/>
+      <text x="40" y="15" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#E6CA65" text-anchor="middle">Agile/Scrum</text>
+      <rect x="88" y="0" width="58" height="22" rx="3" fill="#150E09" stroke="#3A2619" stroke-width="1"/>
+      <text x="117" y="15" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#E6CA65" text-anchor="middle">Merise</text>
+      <rect x="154" y="0" width="48" height="22" rx="3" fill="#150E09" stroke="#3A2619" stroke-width="1"/>
+      <text x="178" y="15" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#E6CA65" text-anchor="middle">UML</text>
+      <rect x="210" y="0" width="102" height="22" rx="3" fill="#150E09" stroke="#3A2619" stroke-width="1"/>
+      <text x="261" y="15" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#E6CA65" text-anchor="middle">PowerDesigner</text>
     </g>
   </g>
 
   <!-- Pillar 3: SecOps and Technical Controls -->
   <g transform="translate(810, 5)">
-    <rect x="0" y="0" width="375" height="260" rx="10" fill="url(#pCardGrad)" stroke="#1E293B" stroke-width="1.2"/>
+    <rect x="0" y="0" width="375" height="260" rx="8" fill="url(#pCardLeather)" stroke="#3A2619" stroke-width="1.3"/>
+    <rect x="4" y="4" width="367" height="252" rx="6" fill="none" stroke="#24170F" stroke-width="0.8"/>
     <line x1="20" y1="0" x2="80" y2="0" stroke="#10B981" stroke-width="2.5"/>
-    <text x="20" y="32" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="700" fill="#10B981">PILLAR 03</text>
-    <text x="20" y="55" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="700" fill="#F8FAFC">âš™ï¸ SecOps &amp; Technical Controls</text>
 
-    <g transform="translate(20, 80)" font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" font-size="12" fill="#94A3B8">
+    <text x="20" y="32" font-family="Georgia, Cambria, serif" font-size="11.5" font-weight="700" fill="#10B981">DOCTRINE III</text>
+    <text x="20" y="55" font-family="Georgia, Cambria, serif" font-size="15" font-weight="700" fill="#F7EFE6">Tactical SecOps &amp; Telemetry</text>
+
+    <g transform="translate(20, 80)" font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" font-size="12" fill="#A89687">
       <text x="0" y="0">â€¢ Blue Team &amp; SOC Telemetry Ingestion</text>
       <text x="0" y="24">â€¢ Linux Administration, Hardening &amp; iptables</text>
       <text x="0" y="48">â€¢ Python &amp; Bash Security Tooling &amp; Scripting</text>
@@ -76,15 +82,15 @@
     </g>
 
     <g transform="translate(20, 215)">
-      <rect x="0" y="0" width="50" height="22" rx="4" fill="#161F30" stroke="#1E293B" stroke-width="1"/>
+      <rect x="0" y="0" width="50" height="22" rx="3" fill="#150E09" stroke="#3A2619" stroke-width="1"/>
       <text x="25" y="15" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#10B981" text-anchor="middle">Linux</text>
-      <rect x="58" y="0" width="50" height="22" rx="4" fill="#161F30" stroke="#1E293B" stroke-width="1"/>
+      <rect x="58" y="0" width="50" height="22" rx="3" fill="#150E09" stroke="#3A2619" stroke-width="1"/>
       <text x="83" y="15" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#10B981" text-anchor="middle">Bash</text>
-      <rect x="116" y="0" width="58" height="22" rx="4" fill="#161F30" stroke="#1E293B" stroke-width="1"/>
+      <rect x="116" y="0" width="58" height="22" rx="3" fill="#150E09" stroke="#3A2619" stroke-width="1"/>
       <text x="145" y="15" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#10B981" text-anchor="middle">Python</text>
-      <rect x="182" y="0" width="46" height="22" rx="4" fill="#161F30" stroke="#1E293B" stroke-width="1"/>
+      <rect x="182" y="0" width="46" height="22" rx="3" fill="#150E09" stroke="#3A2619" stroke-width="1"/>
       <text x="205" y="15" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#10B981" text-anchor="middle">SIEM</text>
-      <rect x="236" y="0" width="94" height="22" rx="4" fill="#161F30" stroke="#1E293B" stroke-width="1"/>
+      <rect x="236" y="0" width="94" height="22" rx="3" fill="#150E09" stroke="#3A2619" stroke-width="1"/>
       <text x="283" y="15" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#10B981" text-anchor="middle">MITRE ATT&amp;CK</text>
     </g>
   </g>

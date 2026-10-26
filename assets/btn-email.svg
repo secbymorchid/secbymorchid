@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 44" width="180" height="44">
-  <rect x="2" y="2" width="176" height="40" rx="8" fill="#141B28" stroke="#1E293B" stroke-width="1.2"/>
-  <rect x="2" y="2" width="4" height="40" rx="2" fill="#38BDF8"/>
-  <text x="90" y="26" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="600" fill="#94A3B8" text-anchor="middle">Email ↗</text>
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 44" width="180" height="44">
+  <rect x="2" y="2" width="176" height="40" rx="4" fill="#1A110A" stroke="#3A2619" stroke-width="1.3"/>
+  <rect x="2" y="2" width="4" height="40" rx="1" fill="#D4AF37"/>
+  <text x="92" y="26" font-family="Georgia, Cambria, serif" font-size="12" font-weight="700" fill="#F7EFE6" text-anchor="middle">Discreet Email â†—</text>
 </svg>
