@@ -1,4 +1,4 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 270" width="1200" height="270">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 270" width="1200" height="270">
   <defs>
     <linearGradient id="pCardLeather" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#1A120C"/>
@@ -16,11 +16,11 @@
     <text x="20" y="55" font-family="Georgia, Cambria, serif" font-size="15" font-weight="700" fill="#F7EFE6">Sovereign Risk &amp; Governance</text>
 
     <g transform="translate(20, 80)" font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" font-size="12" fill="#A89687">
-      <text x="0" y="0">â€¢ Information Systems Governance &amp; Strategy</text>
-      <text x="0" y="24">â€¢ Cyber Risk Assessment (EBIOS RM / ISO 27005)</text>
-      <text x="0" y="48">â€¢ ISO/IEC 27001 &amp; NIST CSF Frameworks</text>
-      <text x="0" y="72">â€¢ RGPD / GDPR Compliance (Cyber Recital 49)</text>
-      <text x="0" y="96">â€¢ PSSI Security Policies &amp; Compliance Audits</text>
+      <text x="0" y="0">&#8226; Information Systems Governance &amp; Strategy</text>
+      <text x="0" y="24">&#8226; Cyber Risk Assessment (EBIOS RM / ISO 27005)</text>
+      <text x="0" y="48">&#8226; ISO/IEC 27001 &amp; NIST CSF Frameworks</text>
+      <text x="0" y="72">&#8226; RGPD / GDPR Compliance (Cyber Recital 49)</text>
+      <text x="0" y="96">&#8226; PSSI Security Policies &amp; Compliance Audits</text>
     </g>
 
     <g transform="translate(20, 215)">
@@ -45,11 +45,11 @@
     <text x="20" y="55" font-family="Georgia, Cambria, serif" font-size="15" font-weight="700" fill="#F7EFE6">Systems Urbanization &amp; Delivery</text>
 
     <g transform="translate(20, 80)" font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" font-size="12" fill="#A89687">
-      <text x="0" y="0">â€¢ IS Urbanization &amp; Enterprise Architecture</text>
-      <text x="0" y="24">â€¢ Conceptual &amp; Logical Modeling (Merise, UML)</text>
-      <text x="0" y="48">â€¢ CASE Tooling: SAP PowerDesigner &amp; StarUML</text>
-      <text x="0" y="72">â€¢ Agile / Scrum Delivery &amp; Sprint Planning</text>
-      <text x="0" y="96">â€¢ Scope, GanttProject Schedules &amp; Risk Registers</text>
+      <text x="0" y="0">&#8226; IS Urbanization &amp; Enterprise Architecture</text>
+      <text x="0" y="24">&#8226; Conceptual &amp; Logical Modeling (Merise, UML)</text>
+      <text x="0" y="48">&#8226; CASE Tooling: SAP PowerDesigner &amp; StarUML</text>
+      <text x="0" y="72">&#8226; Agile / Scrum Delivery &amp; Sprint Planning</text>
+      <text x="0" y="96">&#8226; Scope, GanttProject Schedules &amp; Risk Registers</text>
     </g>
 
     <g transform="translate(20, 215)">
@@ -74,11 +74,11 @@
     <text x="20" y="55" font-family="Georgia, Cambria, serif" font-size="15" font-weight="700" fill="#F7EFE6">Tactical SecOps &amp; Telemetry</text>
 
     <g transform="translate(20, 80)" font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" font-size="12" fill="#A89687">
-      <text x="0" y="0">â€¢ Blue Team &amp; SOC Telemetry Ingestion</text>
-      <text x="0" y="24">â€¢ Linux Administration, Hardening &amp; iptables</text>
-      <text x="0" y="48">â€¢ Python &amp; Bash Security Tooling &amp; Scripting</text>
-      <text x="0" y="72">â€¢ Network Auditing &amp; Concurrency Scanning</text>
-      <text x="0" y="96">â€¢ Deception Architecture (Cowrie Honeypots)</text>
+      <text x="0" y="0">&#8226; Blue Team &amp; SOC Telemetry Ingestion</text>
+      <text x="0" y="24">&#8226; Linux Administration, Hardening &amp; iptables</text>
+      <text x="0" y="48">&#8226; Python &amp; Bash Security Tooling &amp; Scripting</text>
+      <text x="0" y="72">&#8226; Network Auditing &amp; Concurrency Scanning</text>
+      <text x="0" y="96">&#8226; Deception Architecture (Cowrie Honeypots)</text>
     </g>
 
     <g transform="translate(20, 215)">

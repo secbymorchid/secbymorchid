@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Executive Savile Row Banner -->
-  <a href="https://github.com/secbymorchid"><img src="assets/banner.svg" width="100%" alt="Moad Morchid — The Gentleman Strategist // SECBYMORCHID"></a>
+  <a href="https://github.com/secbymorchid"><img src="assets/banner.svg" width="100%" alt="Moad Morchid ? The Gentleman Strategist // SECBYMORCHID"></a>
 
   <!-- Executive Confidential Briefing Dossier -->
   <img src="assets/dossier.svg" width="100%" alt="Executive Cybersecurity and Governance Briefing Memorandum">
@@ -41,11 +41,11 @@
   <!-- Section V: Discreet Inquiries & Correspondence -->
   <img src="assets/label-contact.svg" width="100%" alt="V. Discreet Inquiries &amp; Correspondence">
   <p align="center">
-    <a href="https://linkedin.com/in/moad-morchid" target="_blank"><img src="assets/btn-linkedin.svg" width="180" alt="LinkedIn ↗"></a>
+    <a href="https://www.linkedin.com/in/moad-morchid-8575b43a0/" target="_blank"><img src="assets/btn-linkedin.svg" width="180" alt="LinkedIn &#8599;"></a>
     &nbsp;&nbsp;
-    <a href="mailto:moad.morchid.cybersec@gmail.com"><img src="assets/btn-email.svg" width="180" alt="Discreet Email ↗"></a>
+    <a href="mailto:moad.morchid.cybersec@gmail.com"><img src="assets/btn-email.svg" width="180" alt="Discreet Email &#8599;"></a>
     &nbsp;&nbsp;
-    <a href="https://github.com/secbymorchid"><img src="assets/btn-github.svg" width="180" alt="Repositories ↗"></a>
+    <img src="assets/btn-portfolio.svg" width="180" alt="Portfolio">
   </p>
 
   <!-- Operational Readiness Status Bar -->
@@ -56,6 +56,6 @@
   <!-- Aristocratic Sign-off Quote -->
   <p align="center">
     <sub><code>"SECURITY IS NOT MERELY SYNTAX; IT IS DISCRETION, ARCHITECTURE, AND THE ART OF GOVERNANCE."</code></sub><br>
-    <sub><small><font color="#877668">// SECBYMORCHID — EXECUTIVE CYBERSECURITY &amp; INFORMATION SYSTEMS STRATEGY</font></small></sub>
+    <sub><small><font color="#877668">// SECBYMORCHID ? EXECUTIVE CYBERSECURITY &amp; INFORMATION SYSTEMS STRATEGY</font></small></sub>
   </p>
 </div>
