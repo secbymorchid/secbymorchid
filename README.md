@@ -56,6 +56,6 @@
   <!-- Aristocratic Sign-off Quote -->
   <p align="center">
     <sub><code>"SECURITY IS NOT MERELY SYNTAX; IT IS DISCRETION, ARCHITECTURE, AND THE ART OF GOVERNANCE."</code></sub><br>
-    <sub><small><font color="#877668">// SECBYMORCHID &#8212; EXECUTIVE CYBERSECURITY &amp; INFORMATION SYSTEMS STRATEGY</font></small></sub>
+    <sub><small><font color="#877668">// SECBYMORCHID</font></small></sub>
   </p>
 </div>
