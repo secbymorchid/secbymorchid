@@ -30,11 +30,11 @@
 
   <a href="https://github.com/secbymorchid/ssh-honeypot-project"><img src="assets/project-ssh-honeypot.svg" width="100%" alt="03. SSH Honeypot & Deception Stack: Multi-tier Cowrie honeypot capturing attack traffic, enriched with GeoIP and mapped to MITRE ATT&CK."></a>
 
-  <p align="center">
-    <a href="https://github.com/secbymorchid/RPCTF2026"><img src="assets/btn-ctf.svg" height="32" alt="Also: Red Phoenix CTF 2026 writeups (1st place)"></a>
-  </p>
-
   <br>
+
+  <a href="https://github.com/secbymorchid/RPCTF2026"><img src="assets/project-rpctf2026.svg" width="100%" alt="04. Red Phoenix CTF 2026 Writeups: Curated technical analysis of 8 complex exploitation and defense scenarios from Red Phoenix CTF 2026, documenting binary triage, cryptanalysis, and remediation (1st place out of 30 challenges)."></a>
+
+  <br><br>
 
   <!-- 4. TOOLKIT -->
   <img src="assets/toolkit.svg" width="100%" alt="Technical & Governance Toolkit: Governance & architecture (ISO 27001 · EBIOS RM · GDPR · Merise · UML · SAP PowerDesigner · Agile/Scrum · GanttProject) · Security operations (MITRE ATT&CK · SIEM · Linux hardening · iptables · Wireshark · Threat hunting) · Scripting & systems (Python · Bash · SQL/SQLite · C · Docker · Git)">
