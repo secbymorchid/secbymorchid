@@ -1,34 +1,47 @@
 <div align="center">
-  <!-- Banner Header -->
-  <a href="https://github.com/secbymorchid"><img src="assets/banner.svg" width="100%" alt="Moad Morchid // SECBYMORCHID"></a>
 
-  <!-- Quick Action & Contact Buttons (High-Visibility for Recruiters) -->
+  <!-- 1. HERO -->
+  <a href="https://portfolio-beige-five-autudi03ut.vercel.app/"><img src="assets/hero.svg" width="100%" alt="Moad Morchid // secbymorchid - Information Systems Governance · Risk & Cyber Assessment · IT Project Management - MGSI engineering student at ENSA Oujda (class of 2027)"></a>
+
+  <!-- Quick Action & Identity Links (Portfolio · LinkedIn · Email) -->
   <p align="center">
-    <a href="https://portfolio-beige-five-autudi03ut.vercel.app/" target="_blank"><img src="assets/btn-portfolio.svg" width="180" alt="Portfolio &#8599;"></a>
-    &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/moad-morchid-8575b43a0/" target="_blank"><img src="assets/btn-linkedin.svg" width="180" alt="LinkedIn &#8599;"></a>
-    &nbsp;&nbsp;
-    <a href="mailto:moad.morchid.cybersec@gmail.com"><img src="assets/btn-email.svg" width="180" alt="Email &#8599;"></a>
-  </p>
-
-  <!-- Executive Profile Summary -->
-  <img src="assets/dossier.svg" width="100%" alt="Executive Profile &amp; Focus Summary">
-
-  <br><br>
-
-  <!-- Top 2 Flagship Projects -->
-  <p align="center">
-    <a href="https://github.com/secbymorchid/Automated-SSH-Brute-Force-Detection-Intelligence-Pipeline"><img src="assets/card-1.svg" width="49.5%" alt="I. Automated SSH Brute-Force SIEM Pipeline"></a>
-    <a href="https://github.com/secbymorchid/ssh-honeypot-project"><img src="assets/card-2.svg" width="49.5%" alt="II. Enterprise SSH Honeypot &amp; Deception Stack"></a>
+    <a href="https://portfolio-beige-five-autudi03ut.vercel.app/"><b>Portfolio</b> ↗</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/moad-morchid-8575b43a0/">LinkedIn ↗</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:moad.morchid.cybersec@gmail.com">Email ↗</a>
   </p>
 
   <br>
 
-  <!-- Technical & Governance Arsenal -->
-  <img src="assets/stack.svg" width="100%" alt="Governance, SecOps, and Systems Automation Arsenal">
+  <!-- 2. FOCUS -->
+  <img src="assets/focus.svg" width="100%" alt="Core Focus & Methodology: Governance & Risk (ISO 27001, EBIOS RM, GDPR/RGPD, risk assessment) · IS Architecture (UML, Merise, SAP PowerDesigner) · Security Operations (SIEM pipelines, Linux hardening, threat detection)">
 
   <br><br>
 
-  <!-- Availability Status Bar -->
-  <img src="assets/status.svg" width="100%" alt="Availability: Open to IT &amp; Cyber Project Management / GRC Roles">
+  <!-- 3. SELECTED WORK -->
+  <a href="https://github.com/secbymorchid/securebank-lab"><img src="assets/project-securebank.svg" width="100%" alt="01. securebank-lab: Secure banking information system built end to end, from data modelling to PostgreSQL row-level security, Linux hardening, a Python SIEM and ISO 27001 control mapping."></a>
+
+  <br>
+
+  <a href="https://github.com/secbymorchid/Automated-SSH-Brute-Force-Detection-Intelligence-Pipeline"><img src="assets/project-ssh-siem.svg" width="100%" alt="02. SSH Brute-Force Detection Pipeline: Lightweight SIEM that parses Linux auth logs and stores failed logins in SQLite/SQL for monitoring and audit trails."></a>
+
+  <br>
+
+  <a href="https://github.com/secbymorchid/ssh-honeypot-project"><img src="assets/project-ssh-honeypot.svg" width="100%" alt="03. SSH Honeypot & Deception Stack: Multi-tier Cowrie honeypot capturing attack traffic, enriched with GeoIP and mapped to MITRE ATT&CK."></a>
+
+  <p align="center">
+    <sub>Also: <a href="https://github.com/secbymorchid/RPCTF2026">Red Phoenix CTF 2026 writeups (1st place)</a></sub>
+  </p>
+
+  <br>
+
+  <!-- 4. TOOLKIT -->
+  <img src="assets/toolkit.svg" width="100%" alt="Technical & Governance Toolkit: Governance & architecture (ISO 27001 · EBIOS RM · GDPR · Merise · UML · SAP PowerDesigner · Agile/Scrum · GanttProject) · Security operations (MITRE ATT&CK · SIEM · Linux hardening · iptables · Wireshark · Threat hunting) · Scripting & systems (Python · Bash · SQL/SQLite · C · Docker · Git)">
+
+  <br><br>
+
+  <!-- 5. AVAILABILITY -->
+  <a href="mailto:moad.morchid.cybersec@gmail.com"><img src="assets/availability.svg" width="100%" alt="Open to internships in cyber GRC, risk assessment and IT/cyber project management"></a>
+
 </div>
