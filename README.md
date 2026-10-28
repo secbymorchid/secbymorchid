@@ -31,7 +31,7 @@
   <a href="https://github.com/secbymorchid/ssh-honeypot-project"><img src="assets/project-ssh-honeypot.svg" width="100%" alt="03. SSH Honeypot & Deception Stack: Multi-tier Cowrie honeypot capturing attack traffic, enriched with GeoIP and mapped to MITRE ATT&CK."></a>
 
   <p align="center">
-    <sub>Also: <a href="https://github.com/secbymorchid/RPCTF2026">Red Phoenix CTF 2026 writeups (1st place)</a></sub>
+    <a href="https://github.com/secbymorchid/RPCTF2026"><img src="assets/btn-ctf.svg" height="32" alt="Also: Red Phoenix CTF 2026 writeups (1st place)"></a>
   </p>
 
   <br>

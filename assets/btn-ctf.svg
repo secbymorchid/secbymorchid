@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 36" width="440" height="36">
+  <!-- Solid rounded background panel to match theme -->
+  <rect x="0.5" y="0.5" width="439" height="35" rx="6" fill="#17130F" stroke="#3A3126" stroke-width="1"/>
+  <rect x="3.5" y="3.5" width="433" height="29" rx="4" fill="none" stroke="#251E17" stroke-width="0.8"/>
+  <text x="220" y="23" font-family="ui-monospace, 'SF Mono', Consolas, Menlo, monospace" font-size="13" fill="#8C8273" text-anchor="middle">Also: <tspan fill="#EFE8D8" font-family="Georgia, serif" font-weight="600">Red Phoenix CTF 2026 writeups</tspan> <tspan fill="#C8A45A" font-weight="600">(1st place)</tspan> <tspan fill="#BDB29C" font-family="system-ui, sans-serif">↗</tspan></text>
+</svg>
