@@ -3,13 +3,13 @@
   <!-- 1. HERO -->
   <a href="https://portfolio-beige-five-autudi03ut.vercel.app/"><img src="assets/hero.svg" width="100%" alt="Moad Morchid // secbymorchid - Information Systems Governance · Risk & Cyber Assessment · IT Project Management - MGSI engineering student at ENSA Oujda (class of 2027)"></a>
 
-  <!-- Quick Action & Identity Links (Portfolio · LinkedIn · Email) -->
+  <!-- Quick Action & Contact Buttons -->
   <p align="center">
-    <a href="https://portfolio-beige-five-autudi03ut.vercel.app/"><b>Portfolio</b> ↗</a>
-    &nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/moad-morchid-8575b43a0/">LinkedIn ↗</a>
-    &nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:moad.morchid.cybersec@gmail.com">Email ↗</a>
+    <a href="https://portfolio-beige-five-autudi03ut.vercel.app/" target="_blank"><img src="assets/btn-portfolio.svg" height="40" alt="Portfolio ↗"></a>
+    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/moad-morchid-8575b43a0/" target="_blank"><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn ↗"></a>
+    &nbsp;&nbsp;
+    <a href="mailto:moad.morchid.cybersec@gmail.com"><img src="assets/btn-email.svg" height="40" alt="Email ↗"></a>
   </p>
 
   <br>
