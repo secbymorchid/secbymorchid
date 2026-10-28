@@ -1,13 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 48" width="830" height="48">
-  <!-- Panel Base: Slim rounded #17130F with Hairline Border #3A3126 -->
-  <rect x="0.5" y="0.5" width="829" height="47" rx="6" fill="#17130F" stroke="#3A3126" stroke-width="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 42" width="830" height="42">
+  <rect x="0.5" y="0.5" width="829" height="41" rx="6" fill="#17130F" stroke="#3A3126" stroke-width="1"/>
 
-  <!-- Sage Dot -->
-  <circle cx="28" cy="24" r="4.5" fill="#7FA88E"/>
+  <!-- Green Dot in #8FBF9F -->
+  <circle cx="28" cy="21" r="4.5" fill="#8FBF9F"/>
 
   <!-- Availability Statement -->
-  <text x="44" y="29" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="500" fill="#EFE8D8">Open to internships in cyber GRC, risk assessment and IT/cyber project management</text>
+  <text x="44" y="26" font-family="ui-monospace, 'SF Mono', Consolas, Menlo, monospace" font-size="12.5" font-weight="700" fill="#8FBF9F">STATUS: <tspan fill="#EFE8D8" font-family="system-ui, -apple-system, sans-serif" font-size="13.5" font-weight="500">OPEN TO INTERNSHIPS · CYBER GRC · RISK ASSESSMENT · IT/CYBER PROJECT MANAGEMENT</tspan></text>
 
-  <!-- Right Email Prompt -->
-  <text x="798" y="29" font-family="ui-monospace, 'SF Mono', Consolas, Menlo, monospace" font-size="13" font-weight="600" fill="#C8A45A" text-anchor="end">get in touch ↗</text>
+  <!-- READY_ Aligned Right in Phosphor Green #8FBF9F -->
+  <text x="798" y="26" font-family="ui-monospace, 'SF Mono', Consolas, Menlo, monospace" font-size="13" font-weight="700" fill="#8FBF9F" text-anchor="end">READY_</text>
 </svg>
