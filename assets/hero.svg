@@ -55,7 +55,7 @@
     <text x="0" y="152" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#EFE8D8">Information Systems Governance · Risk &amp; Cyber Assessment · IT Project Management</text>
 
     <!-- Student Affiliation -->
-    <text x="0" y="184" font-family="system-ui, -apple-system, sans-serif" font-size="14.5" font-weight="400" fill="#BDB29C">MGSI engineering student at ENSA Oujda (class of 2027)</text>
+    <text x="0" y="184" font-family="system-ui, -apple-system, sans-serif" font-size="14.5" font-weight="400" fill="#BDB29C">MGSI engineering student at ENSA Oujda</text>
 
     <!-- Subdued Dossier Tagline -->
     <g transform="translate(0, 220)">

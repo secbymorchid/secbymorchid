@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 1. HERO -->
-  <a href="https://portfolio-beige-five-autudi03ut.vercel.app/"><img src="assets/hero.svg" width="100%" alt="Moad Morchid // secbymorchid - Information Systems Governance · Risk & Cyber Assessment · IT Project Management - MGSI engineering student at ENSA Oujda (class of 2027)"></a>
+  <a href="https://portfolio-beige-five-autudi03ut.vercel.app/"><img src="assets/hero.svg" width="100%" alt="Moad Morchid // secbymorchid - Information Systems Governance · Risk & Cyber Assessment · IT Project Management - MGSI engineering student at ENSA Oujda"></a>
 
   <!-- Quick Action & Contact Buttons -->
   <p align="center">
